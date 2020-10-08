@@ -1,0 +1,10 @@
+[ccpp-arg-table]
+  name = block_control_mod
+  type = module
+
+[block_control_type]
+  standard_name = block_control_type
+  long_name = definition of type block_control_type
+  units = DDT
+  dimensions = ()
+  type = block_control_type

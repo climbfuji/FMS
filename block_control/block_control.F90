@@ -26,6 +26,10 @@ module block_control_mod
 use mpp_mod,         only: mpp_error, NOTE, WARNING, FATAL
 use mpp_domains_mod, only: mpp_compute_extent
 
+!! \section arg_table_block_control_mod
+!! \htmlinclude block_control_mod.html
+!!
+
 implicit none
 
 public block_control_type
